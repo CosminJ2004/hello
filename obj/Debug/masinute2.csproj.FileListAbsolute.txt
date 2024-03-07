@@ -1,0 +1,11 @@
+D:\visual\masinute2\masinute2\bin\Debug\masinute2.exe.config
+D:\visual\masinute2\masinute2\bin\Debug\masinute2.exe
+D:\visual\masinute2\masinute2\bin\Debug\masinute2.pdb
+D:\visual\masinute2\masinute2\obj\Debug\masinute2.csproj.AssemblyReference.cache
+D:\visual\masinute2\masinute2\obj\Debug\masinute2.csproj.SuggestedBindingRedirects.cache
+D:\visual\masinute2\masinute2\obj\Debug\masinute2.Form1.resources
+D:\visual\masinute2\masinute2\obj\Debug\masinute2.Properties.Resources.resources
+D:\visual\masinute2\masinute2\obj\Debug\masinute2.csproj.GenerateResource.cache
+D:\visual\masinute2\masinute2\obj\Debug\masinute2.csproj.CoreCompileInputs.cache
+D:\visual\masinute2\masinute2\obj\Debug\masinute2.exe
+D:\visual\masinute2\masinute2\obj\Debug\masinute2.pdb
