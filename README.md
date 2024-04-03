@@ -1,6 +1,6 @@
 # Car Racing Game
 
-![Gameplay](link_to_gameplay_screenshot.png)
+![Gameplay](https://www.mooict.com/c-tutorial-top-down-car-racing-game-with-visual-studio/)
 
 ## Overview
 
